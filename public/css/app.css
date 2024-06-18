@@ -1,0 +1,43 @@
+.heading{
+    color: white;
+    padding: 30px;
+    background-color: #799351;
+}
+.clickable-row {
+    cursor: pointer;
+    background-color: #6b8a7a91;
+    font-weight: 500;
+}
+.clickable-row:hover {
+    background-color: #6B8A7A !important;
+}
+.PTH{
+    background-color: #254336;
+    color: white;
+}
+.PD{
+    background-color: #B7B597;
+}
+.btn-create-product{
+    text-align: end;
+}
+.cus-btn{
+    width: 150px;
+}
+.act-btns{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.form-div{
+    background-color: #DAD3BE; 
+    padding:40px; 
+    margin-bottom:50px;
+    border-radius: 20px;
+}
+
+
+
+.detail-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
